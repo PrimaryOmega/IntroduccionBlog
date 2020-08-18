@@ -1,0 +1,48 @@
+---
+layout: post
+title:  "1.3 Sistemas de información"
+date:   2020-08-16 18:32:00 
+
+categories: Unidad-1 Introducción-a-la-ingeniería-de-software
+---
+# Ingeniería del Software
+El método científico (en general) consiste en la observación sistemática, medición, experimentación y la formulación, análisis, y modificación de hipótesis. &nbsp;
+* La IS es algo más que programar.
+* El proceso de la IS empieza mucho antes de escribir líneas de código y continúa después de que la primera versión del producto haya sido completada. &nbsp;
+* Las etapas por las que atraviesa un producto software a lo largo de su existencia se denomina **Ciclo de Vida**. &nbsp;
+* Se han propuesto varios paradigmas diferentes:&nbsp;
+  * Paradigma clásico o en cascada. &nbsp;
+  * Paradigma clásico con prototipado. &nbsp;
+  * Paradigma ágil. &nbsp;
+  * Paradigma en espiral. &nbsp;
+* A pesar de las ventajas e inconvenientes de cada uno de ellos, todos tienen una serie de etapas/actividades en común: análisis, diseño, implementación, pruebas.&nbsp;
+
+<img src="https://estaticos.muyinteresante.es/media/cache/1140x_thumb/uploads/images/article/5e4d5c975bafe81612ad7c52/programming-code-abstract-technology-background-of-software-deve-picture-id629285904_1.jpg" alt="Code" width="50%"/>
+
+*“La IS supone la aplicación del conocimiento científico al diseño y construcción de software y la documentación asociada requerida para su desarrollo, operación y mantenimiento”* [Boehm] &nbsp;
+
+# Tipos de sistemas software
+Distintas clasificaciones para tipos de sistemas software: &nbsp;
+* **Sistemas de Información:** orientados a la gestión de información en empresas para tratar sus operaciones o servicios de negocio. &nbsp;
+* **Sistemas empotrados:** residentes en memoria para controlar sistemas hardware. Varían desde sistemas simples (ej. Reproductor de CD) hasta sistemas complejos (ej. Maquinaria de una planta química) &nbsp;
+* **Software de ingeniería y científico:** orientadas al cálculo. &nbsp;
+* **Sistemas expertos:** basados en técnicas de IA. &nbsp;
+* **Sistemas de computación personal:** para uso personal o negocio (juegos, procesamiento de texto) &nbsp;
+* **Sistemas de tiempo real** : monitorizar y analizar eventos. &nbsp;
+* **Software de sistema**: software para servir a otros programas (SO, compiladores) &nbsp;
+
+<img src="https://concepto.de/wp-content/uploads/2015/03/software-1-e1550080097569.jpg" alt="Code" width="50%"/>
+
+*“La IS es una disciplina que integra métodos , herramientas y procedimientos para el desarrollo de software"* [Pressman] &nbsp;
+
+El objetivo de la IS es lograr productos de software de calidad (tanto en su forma final como durante su elaboración), mediante un procesoapoyado por métodos y herramientas.  &nbps;
+El proceso define un marco de trabajo para un conjunto de áreas clave, las cuales forman la base del control de gestión de proyectos de software y establecen el contexto en el cual: &nbsp;
+
+<ol type="I" start="1"> 
+   <li>Se aplican los métodos técnicos.</li>
+   <li>Se producen resultados de trabajo.</li>
+   <li>Se establecen hitos.</li>
+   <li>Se asegura la calidad y se gestiona el cambio adecuadamente.</li> 
+</ol>
+
+<img src="https://i.ibb.co/Lnc3ykm/Screenshot-3.png" alt="Screenshot-3" width="50%"/>

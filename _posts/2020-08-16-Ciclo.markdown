@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "2.2 El ciclo de vida del Software"
+date:   2020-08-16 19:14:00 
+
+categories: Unidad-2 Modelos-de-procesos-de-software
+---
+# Modelo de proceso de software
+* Representación formal y simplificada de un proceso de software, presentada desde una perspectiva específica. &nbsp;
+* Dicho de otra forma, los procesos son instancias de un modelo de proceso. &nbsp;
+* Ejemplos de perspectivas del proceso de software: &nbsp;
+  * Flujo de trabajo, secuencia de actividades. &nbsp;
+  * Flujo de datos, flujo de la información. &nbsp;
+  * Rol/acción, quién realiza qué. &nbsp;&nbsp;
+  
+ <img src="https://i.ibb.co/KrmPVmH/21.png" alt="21" width="50%" />
+ 
+# Etapas
+
+### Planificación
+
+La importante tarea a la hora de crear un producto de software es obtener los requisitos o el análisis de los requisitos. Los clientes suelen tener una idea más bien abstracta del resultado final, pero no sobre las funciones que debería cumplir el software. &nbsp;
+Una vez que se hayan recopilado los requisitos del cliente, se debe realizar un análisis del ámbito del desarrollo. Este documento se conoce como especificación funcional.
+En este se definen los requerimientos y funcionalidades que debe tener el software, mediante el trabajo en conjunto entre los desarrolladores, el departamento de ventas, los estudios de mercado y, fundamentalmente, el contacto con el cliente. En este punto se realizan asimismo los análisis de riesgo para el emprendimiento y se fijan los requisitos de aseguramiento de la calidad.<br>
+
+### Implementación, pruebas y documentación
+La **implementación** es parte del proceso en el que los ingenieros de software programan el ódigo para el proyecto de trabajo que está en relación de las demandas del software, en esta tapa se realizan las pruebas de caja blanca y caja negra.<br>
+
+Las **pruebas** de software son parte esencial del proceso de desarrollo del software. Esta parte delproceso tiene la función de detectar los errores de software lo antes posible.<br>
+
+La **documentación** del diseño interno del software con el objetivo de facilitar su mejora y su mantenimiento se realiza a lo largo del proyecto. Esto puede incluir la documentación de un API, tanto interior como exterior. Prácticamente es como una receta de cocina.<br>
+
+### Despliegue y mantenimiento
+El **despliegue** comienza cuando el código ha sido suficientemente probado, ha sido aprobado para su liberación y ha sido distribuido en el entorno de producción.<br>
+
+El **mantenimiento** o mejora de un software con problemas recientemente desplegado, puede requerir más tiempo que el desarrollo inicial del software. Es posible que haya que incorporar código que no se ajusta al diseño original con el objetivo de solucionar un problema o ampliar la funcionalidad para un cliente.<br>
+
+ <img src="http://getbarkeep.org/wp-content/uploads/2019/05/imagen-.jpg" alt="21" width="50%" />
+
+

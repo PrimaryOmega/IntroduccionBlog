@@ -1,0 +1,66 @@
+---
+layout: post
+title:  "2.3 Modelos de desarrollo: tradicionales vs alternativos"
+date:   2020-08-16 19:17:00 
+
+categories: Unidad-2 Modelos-de-procesos-de-software
+---
+# Clasificación de los modelos de procesos de software 
+### Modelos tradicionales
+Formados por un conjunto de fases o actividades en las que no tienen en cuenta la naturaleza evolutiva del software.&nbsp;
+<ul>
+  <li>Clásico, lineal o en cascada.</li>
+  <li>Estructurado.</li>  
+  <li>Basado en prototipos</li>
+  <li>Desarrollo rápido de aplicaciones (RAD)</li>
+</ul>
+ <img src="https://otroblogsobretics.files.wordpress.com/2011/03/modelo-de-cascada.png" alt="21" width="50%" />
+ 
+### Modelos evolutivos
+
+Son modelos que se adaptan a la evolución que sufren los requisitos del sistema en función del tiempo. &nbsp;
+<ul>
+  <li>Incremental.</li>
+  <li>Iterativo.</li>  
+  <li>En espiral</li>  
+</ul>
+ <img src="https://i.ibb.co/DQMz6BY/Screenshot-5.png" alt="21" width="50%" />
+
+### Modelos para sistemas orientados a objetos
+
+Modelos con un alto grado de iteratividad y solapamiento entre fases. &nbsp;
+<ul>
+  <li>De agrupamiento.</li>
+  <li>Proceso Unificado.</li>
+</ul>
+ <img src="https://i.ibb.co/zZLS4BV/Screenshot-6.png" alt="21" width="50%" />
+
+### Modelos basados en reutilización 
+
+Tienen en cuenta la reutilización sistemática del software.&nbsp;
+<ul>
+  <li>Basado en componentes.</li>
+  <li>Proceso Unificado.</li>
+</ul>
+ <img src="https://i.ibb.co/N1SvKhq/Screenshot-7.png" alt="21" width="50%" />
+ 
+### Procesos ágiles
+
+Enfatizan el desarrollo rápido, ponen el énfasis en la programación.
+<ul>
+  <li>Programación extrema (XP)</li>
+  <li>Scrum.</li>
+  <li>Desarrollo de software adaptativo.</li>
+  <li>Crystal.</li>
+</ul>
+ <img src="https://i.ibb.co/Kqjh4nm/Screenshot-8.png" alt="21" width="50%" />
+ 
+### Modelos para sistemas web 
+
+Creados específicamente para el desarrollo de aplicaciones web. &nbsp;
+<ul>
+  <li>Modelos de Pressman.</li>
+  <li>UML-based Web Engineering.</li>   
+</ul>
+<br>
+
